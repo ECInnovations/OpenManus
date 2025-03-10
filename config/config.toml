@@ -1,6 +1,6 @@
 # Global LLM configuration
 [llm]
-model = "deepseek-reasoner"
+model = "deepseek-chat"
 base_url = "https://api.deepseek.com"
 api_key = "sk-5db9c59871484d778cb74687c7d45e4a"
 max_tokens = 4096
