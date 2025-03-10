@@ -1,10 +1,10 @@
 # Global LLM configuration
 [llm]
-model = "claude-3-5-sonnet"
-base_url = "https://api.openai.com/v1"
-api_key = "sk-..."
+model = "deepseek-reasoner"
+base_url = "https://api.deepseek.com"
+api_key = "sk-5db9c59871484d778cb74687c7d45e4a"
 max_tokens = 4096
-temperature = 0.0
+temperature = 1.0
 
 # [llm] #AZURE OPENAI:
 # api_type= 'azure'
